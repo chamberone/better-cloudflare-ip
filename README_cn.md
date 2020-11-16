@@ -1,4 +1,4 @@
-**[English](https://github.com/chamberone/better-cloudflare-ip/blob/master/README.md) | 中文**
+**[English](https://github.com/chamberone/better-cloudflare-ip/blob/main/README.md) | 中文**
 
 ## better-cloudflare-ip
 寻找win下最快的cloudflare泛播ip。
