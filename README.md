@@ -1,3 +1,5 @@
+**English | [中文](https://github.com/chamberone/better-cloudflare-ip/blob/master/README_cn.md)**
+
 ## better-cloudflare-ip
 find fastest anycast ip for win platform
 
